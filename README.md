@@ -1,5 +1,5 @@
 # Plant-Monitoring-System
-This project implements a Smart Plant Monitoring System using an Arduino. It continuously monitors: soil moisture, light intensity, and temperature.
+This project implements a Smart Plant Monitoring System using an Arduino. It continuously monitors soil moisture, light intensity, and temperature.
 
 ## Features
 - Uses interrupts and timers to efficiently collect sensor data, store thresholds in EEPROM
